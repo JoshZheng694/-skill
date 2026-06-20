@@ -1,0 +1,20 @@
+# 大型原始PDF（>10MB）
+*.pdf
+
+# 中间产物
+.tmp/ppt/
+.tmp/ocr_watchdog.log
+.tmp/ocr_done.txt
+
+# 测试文件
+测试文件夹/
+
+# PPT压缩包
+中国经济史(1).zip
+
+# 临时转换
+经济史复习提纲_最终版.html
+
+# Python缓存
+__pycache__/
+*.pyc
